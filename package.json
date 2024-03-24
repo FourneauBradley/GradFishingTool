@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.bradley.gradfishingtool",                              
+  "displayName": "Grad Fishing Toolkit",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Tool to fishing in XR",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"Bradley",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/fukkas/GradFishingTool.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
